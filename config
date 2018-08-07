@@ -1,0 +1,8 @@
+[core]
+	symlinks = false
+	repositoryformatversion = 0
+	filemode = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://support.sas.com/documentation/onlinedoc/sasc/doc700/html/lr1/zid-2790.htm
+	fetch = +refs/heads/*:refs/remotes/origin/*
